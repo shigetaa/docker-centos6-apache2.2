@@ -103,7 +103,7 @@ rm -Rf src man manual
 
 ## Dockerfile から Apache のコンテナイメージを作成
 以下の Dockerfileファイルを作成する。
-```bash
+```docker
 FROM centos:6
 
 ENV HTTPD_PREFIX /usr/local/apache2
