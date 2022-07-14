@@ -1,4 +1,4 @@
-# CentOS6 環境で Apache2.2 および PHP 4.3 環境をDockerコンテナで構築
+# CentOS6 環境で Apache2.2 環境をDockerコンテナで構築
 CentOS をベースに Apache をソースからインストールしてイメージを作成する。
 
 ## コンテナ内で作業をする
